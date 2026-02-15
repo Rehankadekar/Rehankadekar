@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rihan Kadekar</h1>
-<h3 align="center">Computer Engineering Student | Python Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Engineering Student | Python Developer | software testing  Enthusiast</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ### 🔧 Skills
-- 💻 Languages: Python, C, Java, SQL  
+- 💻 Languages: Python, C,C++, SQL  
 - 🌐 Web: HTML, CSS, JavaScript  
 - 📊 Data: Pandas, NumPy, MySQL  
 - 🤖 AI/ML: OpenCV, Machine Learning Basics  
